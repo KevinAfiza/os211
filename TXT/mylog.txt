@@ -16,3 +16,4 @@ ZCZC W02 60 L10 Importing and Exporting public key
 ZCZC W02 30 L10 Make top 3 neighbors
 ZCZC W02 15 L10 Editing Sript.sh
 ZCZC W02 60 L10 Make SHA256SUM
+ZCZC W02 60 L10 Make Top 10 List for Week02
