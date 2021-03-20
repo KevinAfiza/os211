@@ -17,3 +17,7 @@ ZCZC W02 30 L10 Make top 3 neighbors
 ZCZC W02 15 L10 Editing Sript.sh
 ZCZC W02 60 L10 Make SHA256SUM
 ZCZC W02 60 L10 Make Top 10 List for Week02
+ZCZC W03 30 L14 Make top 3 neighbors
+ZCZC W03 15 L10 Check .bash aliases for update
+ZCZC W03 120 L17 Do task 7
+ZCZC W03 30 L10 Do task 8 and 9
