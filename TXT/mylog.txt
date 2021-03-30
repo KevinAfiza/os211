@@ -22,3 +22,4 @@ ZCZC W03 15 L10 Check .bash aliases for update
 ZCZC W03 120 L17 Do task 7
 ZCZC W03 30 L10 Do task 8 and 9
 ZCZC W03 30 L10 Fuse demo
+ZCZC W04 120 L10 Did assignment 6-8
