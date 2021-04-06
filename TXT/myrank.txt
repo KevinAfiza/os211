@@ -1,18 +1,18 @@
 # TOP 10 RANK
+ZCZC W01 kevindharmawan
+ZCZC W01 kevin-UI2019
+ZCZC W01 MarioSerano
 ZCZC W02 kevindharmawan
 ZCZC W02 kevin-UI2019
 ZCZC W02 MarioSerano
 ZCZC W03 kevindharmawan
 ZCZC W03 kevin-UI2019
 ZCZC W03 MarioSerano
+ZCZC W03 freezetabs
+ZCZC W03 calmeryan
 ZCZC W04 kevindharmawan
 ZCZC W04 kevin-UI2019
 ZCZC W04 MarioSerano
 ZCZC W04 freezetabs
 ZCZC W04 calmeryan
-ZCZC W05 kevindharmawan
-ZCZC W05 kevin-UI2019
-ZCZC W05 MarioSerano
-ZCZC W05 freezetabs
-ZCZC W05 calmeryan
-ZCZC W05 nfrobby
+ZCZC W04 nfrobby
