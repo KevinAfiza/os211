@@ -1,4 +1,4 @@
-# Log Format
+o# Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L14 Assignment #4: registering for the course with Google Forms
@@ -23,3 +23,9 @@ ZCZC W03 120 L17 Do task 7
 ZCZC W03 30 L10 Do task 8 and 9
 ZCZC W03 30 L10 Fuse demo
 ZCZC W04 120 L10 Did assignment 6-8
+ZCZC W05 120 L11 Read OSC10 Chapter 10
+ZCZC W05 180 L14 Assignment #4
+ZCZC W05 30 L12 Update My rank
+ZCZC W05 120 L13 Update Top 10 rank
+ZCZC W05 30 L15 Update mylog
+ZCZC W05 30 L16 make SHA256SUM
