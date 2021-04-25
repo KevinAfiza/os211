@@ -29,3 +29,6 @@ ZCZC W05 30 L12 Update My rank
 ZCZC W05 120 L13 Update Top 10 rank
 ZCZC W05 30 L15 Update mylog
 ZCZC W05 30 L16 make SHA256SUM
+ZCZC W06 30 L01 Scele
+ZCZC W06 120 L11 Read OSC10 chapter 3 & 4
+ZCZC W06 120 L14 Assignment #4
